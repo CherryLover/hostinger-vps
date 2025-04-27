@@ -1,6 +1,6 @@
 # VPS Monitor
 
-VPS状态监控面板，用于实时查看服务器运行状态。
+VPS状态监控面板，用于实时查看服务器运行状态。hostinger 提供 API 接口获取 VPS 状态 https://developers.hostinger.com/
 
 ## 功能特点
 
