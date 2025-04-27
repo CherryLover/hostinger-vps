@@ -1,0 +1,6 @@
+name = "vps-status"
+compatibility_date = "2024-04-27"
+compatibility_flags = ["nodejs_compat"]
+
+[site]
+bucket = "./dist" 
