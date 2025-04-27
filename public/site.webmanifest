@@ -1,0 +1,16 @@
+{
+  "name": "VPS Monitor",
+  "short_name": "VPS Monitor",
+  "description": "监控VPS服务器状态的应用",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0071e3",
+  "theme_color": "#0071e3",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+} 
